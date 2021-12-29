@@ -32,7 +32,7 @@ export default function App(){
 
       <Text style={styles.sectionTitle}>Today's tasks</Text>
       <View style={styles.lists}>
-        {/* takssss will be shown */}
+        {/* takssss will be sshown */}
         {
           taskItems.map((item, index)=>{
             return (
